@@ -2,7 +2,7 @@
 tcpdump_filter is a syn-flood monitor tool base on tcpdump. It can auto filter attacker ip address.
 
 # Usage
-start do_tcpdump.sh it can generate log per hour.
+start do_tcpdump.sh. it can generate log per hour.
 ```
 ./do_tcpdump.sh &
 ```
