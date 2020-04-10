@@ -2,6 +2,7 @@
 tcpdump_filter is a syn-flood monitor tool base on tcpdump. It can auto filter attacker ip address.
 
 # Usage
+create log folder
 ```
 mkdir log
 ```
